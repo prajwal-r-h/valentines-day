@@ -46,7 +46,7 @@ body {
     border-top-left-radius: 20px;
     border-top-right-radius: 20px;
     box-shadow: -5px -5px 100px rgba(0,0,0,0.4); 
-    animation: cd 3s linear infinite;  
+    animation: cd 4s linear infinite;  
   }
   
   @keyframes cd {
@@ -221,11 +221,11 @@ body {
   }
   .four {
     left:70px;
-    animation: heart 2.3s ease-out infinite;
+    animation: heart 2.4s ease-out infinite;
   }
   .five {
     left:90px;
-    animation: heart 1.7s ease-out infinite;
+    animation: heart 1.8s ease-out infinite;
   }
   
   @keyframes heart {
